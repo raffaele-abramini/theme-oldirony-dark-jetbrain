@@ -2,7 +2,7 @@
     <option name="FONT_SCALE" value="1.0" />
     <option name="FONT_NAME" value="Fira Code" />
     <metaInfo>
-        <property name="originalScheme">Raff - material</property>
+        <property name="originalScheme">theme-oldirony-dark</property>
     </metaInfo>
     <option name="LINE_SPACING" value="1.3" />
     <option name="EDITOR_FONT_SIZE" value="16" />
@@ -19,6 +19,7 @@
         <option name="SELECTION_BACKGROUND" value="35456c" />
         <option name="TEARLINE_COLOR" value="283237" />
         <option name="DOCUMENTATION_COLOR" value="141e23" />
+        <option name="INDENT_GUIDE" value="283237" />
     </colors>
     <attributes>
         <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
