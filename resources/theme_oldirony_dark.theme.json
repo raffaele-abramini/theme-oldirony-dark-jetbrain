@@ -46,7 +46,6 @@
     "Button.shadowColor": "basicBackground",
     "Link.activeForeground": "accentColor",
     "List.selectionBackground": "accentColorWeaker",
-    "List.foreground": "#95b2bb",
     "SearchEverywhere.Tab.selectedBackground": "accentColorWeaker",
     "SearchEverywhere.Tab.selectedForeground": "#ffffff",
     "*": {
