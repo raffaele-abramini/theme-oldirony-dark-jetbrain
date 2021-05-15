@@ -49,7 +49,7 @@
     "SearchEverywhere.Tab.selectedForeground": "#ffffff",
     "ToolWindow.Header.borderColor": "basicBackground",
     "ToolWindow.Header.inactiveBackground": "basicBackground",
-    "Tree.rowHeight": 24,
+    "Tree.rowHeight": 26,
     "Tree.selectionBackground": "accentColorWeaker",
     "Tree.selectionInactiveBackground": "basicBackgroundStrong",
     "windowBorder": "basicBackground"
