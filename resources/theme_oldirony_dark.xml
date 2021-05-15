@@ -18,6 +18,7 @@
         <option name="SELECTED_TEARLINE_COLOR" value="" />
         <option name="SELECTION_BACKGROUND" value="35456c" />
         <option name="TEARLINE_COLOR" value="283237" />
+        <option name="DOCUMENTATION_COLOR" value="141e23" />
     </colors>
     <attributes>
         <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
