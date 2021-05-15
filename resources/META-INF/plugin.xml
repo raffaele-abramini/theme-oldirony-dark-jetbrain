@@ -1,17 +1,16 @@
 <idea-plugin>
   <id>com.your.company.unique.plugin.id</id>
-  <name>Plugin display name here</name>
+  <name>Theme Oldirony Dark</name>
   <version>1.0</version>
-  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <vendor email="hello@raff.ae" url="https://raff.ae">Raffaele Abramini</vendor>
 
   <description><![CDATA[
-      Enter short description for your plugin here.<br>
-      <em>most HTML tags may be used</em>
+      A minimal theme for your editor loosely based on Material design.
     ]]></description>
 
   <change-notes><![CDATA[
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>
+      <h3>1.0</h3>
+      <p>Shipped</p>
     ]]>
   </change-notes>
 

@@ -1,7 +1,7 @@
 {
   "name": "theme-oldirony-dark",
   "dark": true,
-  "author": "",
+  "author": "Raffaele Abramini",
   "editorScheme": "/theme_oldirony_dark.xml",
   "colors": {
     "basicBackgroundWeak": "#10151c",
