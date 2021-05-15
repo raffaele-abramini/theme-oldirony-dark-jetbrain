@@ -1,0 +1,36 @@
+{
+  "name": "theme-oldirony-dark",
+  "dark": true,
+  "author": "",
+  "editorScheme": "/theme_oldirony_dark.xml",
+  "colors": {
+    "basicBackgroundWeak": "#10151c",
+    "basicBackground": "#141e23",
+    "basicBackgroundStrong": "#13222b",
+    "accentColor": "#6991db",
+    "accentColorWeak": "#3d5889",
+    "accentColorWeaker": "#1d324c"
+  },
+  "ui": {
+    "Panel.background": "basicBackground",
+    "MenuItem.selectionBackground": "#11aa22",
+    "windowBorder": "basicBackground",
+    "Borders.color": "basicBackground",
+    "Notification.borderColor": "basicBackground",
+    "Component.borderColor": "basicBackground",
+    "ToolWindow.Header.borderColor": "basicBackground",
+    "Tree.rowHeight": 24,
+    "Tree.selectionBackground": "accentColorWeaker",
+    "Tree.selectionInactiveBackground": "basicBackgroundStrong",
+    "Menu.separatorColor": "basicBackground",
+    "ToolWindow.Header.inactiveBackground": "basicBackground",
+    "PopupMenu.selectionBackground": "accentColorWeak",
+    "EditorTabs.underlineColor": "accentColor",
+    "EditorTabs.inactiveUnderlineColor": "accentColorWeaker",
+    "EditorTabs.underlinedTabBackground": "basicBackground",
+    "*": {
+      "background": "basicBackground",
+      "borderColor": "basicBackground"
+    }
+  }
+}
