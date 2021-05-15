@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>theme-oldirony-dark</id>
   <name>Theme Oldirony Dark</name>
-  <version>1.0</version>
+  <version>1.0.1</version>
   <vendor email="hello@raff.ae" url="https://raff.ae">Raffaele Abramini</vendor>
 
   <description><![CDATA[
