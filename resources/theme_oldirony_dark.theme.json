@@ -9,7 +9,10 @@
     "basicBackgroundStrong": "#13222b",
     "accentColor": "#6991db",
     "accentColorWeak": "#3d5889",
-    "accentColorWeaker": "#1d324c"
+    "accentColorWeaker": "#1d324c",
+    "secondaryColor": "#b3b7cb",
+    "secondaryColorWeak": "#686c74",
+    "secondaryColorWeaker": "#353b42"
   },
   "ui": {
     "Panel.background": "basicBackground",
@@ -28,6 +31,18 @@
     "EditorTabs.underlineColor": "accentColor",
     "EditorTabs.inactiveUnderlineColor": "accentColorWeaker",
     "EditorTabs.underlinedTabBackground": "basicBackground",
+    "Button.default.startBackground": "accentColorWeak",
+    "Button.default.foreground": "#ffffff",
+    "Button.default.endBackground": "accentColorWeak",
+    "Button.default.startBorderColor": "accentColorWeak",
+    "Button.default.endBorderColor": "accentColorWeak",
+    "Button.default.shadowColor": "basicBackground",
+    "Button.foreground": "#ffffff",
+    "Button.startBackground": "secondaryColorWeak",
+    "Button.endBackground": "secondaryColorWeak",
+    "Button.startBorderColor": "secondaryColorWeak",
+    "Button.endBorderColor": "secondaryColorWeak",
+    "Button.shadowColor": "basicBackground",
     "*": {
       "background": "basicBackground",
       "borderColor": "basicBackground"
