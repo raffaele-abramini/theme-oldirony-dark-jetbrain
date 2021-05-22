@@ -5,10 +5,17 @@
   <vendor email="hello@raff.ae" url="https://raff.ae">Raffaele Abramini</vendor>
 
   <description><![CDATA[
-      A dark, minimalistic theme for your editor loosely based on Material design.
+      <p>A dark, minimalistic theme for your editor loosely based on Material design.</p>
+      <p>Try it together with the <strong>Fire Code</strong> font.
+      You can download it for free from <a href="https://github.com/tonsky/FiraCode" target="_blank" rel="noreferrer noopener">its Github repo</a>.</p>
     ]]></description>
 
   <change-notes><![CDATA[
+      <h3>1.0.3</h3>
+      <ul>
+        <li>Tweak some colors header and border colors</li>
+        <li>Add plugin icon</li>
+      </ul>
       <h3>1.0.2</h3>
       <ul>
         <li>Fix 'since' parameter</li>
