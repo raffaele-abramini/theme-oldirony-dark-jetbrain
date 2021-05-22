@@ -21,6 +21,7 @@
       "borderColor": "basicBackground"
     },
     "Borders.color": "basicBackground",
+    "Borders.ContrastBorderColor": "basicBackground",
     "Button.default.endBackground": "accentColorWeak",
     "Button.default.endBorderColor": "accentColorWeak",
     "Button.default.foreground": "#ffffff",
@@ -44,6 +45,7 @@
     "Menu.separatorColor": "basicBackground",
     "Notification.borderColor": "basicBackground",
     "Panel.background": "basicBackground",
+    "Popup.Header.activeBackground": "basicBackground",
     "Popup.Header.inactiveBackground": "basicBackground",
     "PopupMenu.selectionBackground": "accentColorWeak",
     "PopupMenu.translucentBackground": "#141e23",

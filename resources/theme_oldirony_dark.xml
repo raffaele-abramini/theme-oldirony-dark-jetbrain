@@ -9,11 +9,11 @@
     <option name="GUTTER_BACKGROUND" value="13232a" />
     <option name="INDENT_GUIDE" value="13232a" />
     <option name="LINE_NUMBERS_COLOR" value="424f5c" />
+    <option name="METHOD_SEPARATORS_COLOR" value="141e23" />
     <option name="RIGHT_MARGIN_COLOR" value="" />
     <option name="SELECTED_TEARLINE_COLOR" value="" />
     <option name="SELECTION_BACKGROUND" value="35456c" />
     <option name="TEARLINE_COLOR" value="13232a" />
-    <option name="METHOD_SEPARATORS_COLOR" value="142630" />
   </colors>
   <attributes>
     <option name="CSS.IMPORTANT" baseAttributes="" />
