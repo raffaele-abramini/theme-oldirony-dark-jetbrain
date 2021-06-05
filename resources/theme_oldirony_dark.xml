@@ -9,12 +9,12 @@
     <option name="GUTTER_BACKGROUND" value="13232a" />
     <option name="INDENT_GUIDE" value="13232a" />
     <option name="LINE_NUMBERS_COLOR" value="424f5c" />
-    <option name="METHOD_SEPARATORS_COLOR" value="12232A" />
+    <option name="METHOD_SEPARATORS_COLOR" value="12232a" />
     <option name="RIGHT_MARGIN_COLOR" value="" />
     <option name="SELECTED_TEARLINE_COLOR" value="" />
-    <option name="SELECTION_BACKGROUND" value="35456c" />
+    <option name="SELECTION_BACKGROUND" value="1d324c" />
+    <option name="SEPARATOR_BELOW_COLOR" value="12232a" />
     <option name="TEARLINE_COLOR" value="13232a" />
-    <option name="SEPARATOR_BELOW_COLOR" value="12232A" />
   </colors>
   <attributes>
     <option name="CSS.IMPORTANT" baseAttributes="" />
@@ -35,7 +35,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="848dc1" />
+        <option name="FOREGROUND" value="6f9bd4" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -51,13 +51,13 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="848dc1" />
+        <option name="FOREGROUND" value="15cbd" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="57a37e" />
+        <option name="FOREGROUND" value="5bada2" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
@@ -88,11 +88,6 @@
     <option name="JS.PARAMETER">
       <value>
         <option name="FOREGROUND" value="d4d0a0" />
-      </value>
-    </option>
-    <option name="JSON.PROPERTY_KEY">
-      <value>
-        <option name="FOREGROUND" value="747caa" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
