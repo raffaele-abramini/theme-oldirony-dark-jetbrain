@@ -12,7 +12,8 @@
     <option name="METHOD_SEPARATORS_COLOR" value="12232a" />
     <option name="RIGHT_MARGIN_COLOR" value="" />
     <option name="SELECTED_TEARLINE_COLOR" value="" />
-    <option name="SELECTION_BACKGROUND" value="1d324c" />
+    <option name="SELECTION_BACKGROUND" value="956d05" />
+    <option name="SELECTION_FOREGROUND" value="ffffff" />
     <option name="SEPARATOR_BELOW_COLOR" value="12232a" />
     <option name="TEARLINE_COLOR" value="13232a" />
   </colors>
@@ -51,7 +52,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="15cbd" />
+        <option name="FOREGROUND" value="6f9bd4" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
