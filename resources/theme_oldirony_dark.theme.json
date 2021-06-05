@@ -45,6 +45,7 @@
     "EditorTabs.underlinedTabBackground": "basicBackground",
     "Link.activeForeground": "accentColor",
     "Link.hoverForeground": "accentColor",
+    "Link.secondaryForeground": "accentColor",
     "List.selectionBackground": "accentColorWeak",
     "Menu.separatorColor": "basicBackground",
     "Notification.borderColor": "basicBackground",
