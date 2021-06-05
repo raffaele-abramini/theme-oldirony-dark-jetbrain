@@ -41,6 +41,7 @@
     "Button.startBackground": "secondaryColorWeak",
     "Button.startBorderColor": "secondaryColorWeak",
     "CheckBoxMenuItem.selectionBackground": "accentColorWeaker",
+    "ComboBox.selectionBackground": "accentColorWeak",
     "CompletionPopup.selectionInactiveBackground": "accentColorWeak",
     "Component.borderColor": "basicBackground",
     "Component.focusedBorderColor": "accentColorWeaker",

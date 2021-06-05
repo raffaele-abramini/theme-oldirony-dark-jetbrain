@@ -1,4 +1,4 @@
-<scheme name="theme-oldirony-dark" version="142" parent_scheme="Darcula">
+<scheme name="Theme Oldirony Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="originalScheme">Theme Oldirony Dark</property>
   </metaInfo>
@@ -12,7 +12,7 @@
     <option name="METHOD_SEPARATORS_COLOR" value="12232a" />
     <option name="RIGHT_MARGIN_COLOR" value="" />
     <option name="SELECTED_TEARLINE_COLOR" value="" />
-    <option name="SELECTION_BACKGROUND" value="353b42"/>
+    <option name="SELECTION_BACKGROUND" value="353b42" />
     <option name="SEPARATOR_BELOW_COLOR" value="12232a" />
     <option name="TEARLINE_COLOR" value="13232a" />
   </colors>
@@ -35,7 +35,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="6f9bd4" />
+        <option name="FOREGROUND" value="71a0bd" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -51,7 +51,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="6f9bd4" />
+        <option name="FOREGROUND" value="71a0bd" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>

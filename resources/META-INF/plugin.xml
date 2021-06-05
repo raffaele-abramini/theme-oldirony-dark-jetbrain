@@ -1,18 +1,19 @@
 <idea-plugin>
   <id>theme-oldirony-dark</id>
   <name>Theme Oldirony Dark</name>
-  <version>1.0.3</version>
+  <version>1.0.4</version>
   <vendor email="hello@raff.ae" url="https://raff.ae">Raffaele Abramini</vendor>
 
   <description><![CDATA[
-      <p>A dark, minimalistic theme for your editor loosely based on Material design.</p>
-      <p><strong>Less borders, less clutter, less noise.</strong></p>
-      <p>This theme aims to give a relaxed and seamless experience to tired developers, with simple colors, slightly larger fonts and flat surfaces.</p>
-      <p>Try it together with the <strong>Fire Code</strong> font.
-      You can download it for free from <a href="https://github.com/tonsky/FiraCode#download--install" target="_blank" rel="noreferrer noopener">its Github repo</a>.</p>
+      <p>A dark, minimalistic theme with pastel colors</p>
+      <p>Works with <a href="https://github.com/tonsky/FiraCode#download--install" target="_blank" rel="noreferrer noopener">Fire Code font</a>.</p>
     ]]></description>
 
   <change-notes><![CDATA[
+      <h3>1.0.4</h3>
+      <ul>
+        <li>Color tweaks</li>
+      </ul>
       <h3>1.0.3</h3>
       <ul>
         <li>Tweak some colors header and border colors</li>
