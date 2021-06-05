@@ -8,9 +8,9 @@
     "basicBackground": "#141e23",
     "basicBackgroundStrong": "#12232A",
     "textColor": "#c0d1d5",
-    "accentColor": "#5572cb",
-    "accentColorWeak": "#3a4b7b",
-    "accentColorWeaker": "#1d2949",
+    "accentColor": "#79a7bf",
+    "accentColorWeak": "#2e4f66",
+    "accentColorWeaker": "#283842",
     "secondaryColor": "#b3b7cb",
     "secondaryColorWeak": "#525461",
     "debug": "#00ff00"
@@ -33,6 +33,7 @@
     "Button.default.startBorderColor": "accentColorWeak",
     "Button.endBackground": "secondaryColorWeak",
     "Button.endBorderColor": "secondaryColorWeak",
+    "Button.focusedBorderColor": "secondaryColorWeak",
     "Button.arc": 4,
     "Component.focusColor": "accentColorWeaker",
     "Button.foreground": "#ffffff",
@@ -80,7 +81,6 @@
     "Tree.selectionBackground": "accentColorWeak",
     "Tree.selectionForeground": "#ffffff",
     "Tree.selectionInactiveBackground": "accentColorWeaker",
-    "Tree.foreground": "c0d1d5",
     "windowBorder": "basicBackground"
   }
 }
